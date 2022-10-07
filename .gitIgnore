@@ -1,5 +1,5 @@
-#Variables de Entorno
+# dotenv environment variable files
 .env
 
-#Dependencias de paquetes
+# Dependency directories
 node_modules/
